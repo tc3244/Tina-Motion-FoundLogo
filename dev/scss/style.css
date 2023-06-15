@@ -1,0 +1,28 @@
+svg {
+  max-width: 100vw;
+  max-height: 100vh;
+
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+.section-svg {
+  position: relative;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100vh;
+}
+
+#leye,
+#reye {
+  opacity: 0
+}
+
+#mItem {
+  opacity: 0;
+}
